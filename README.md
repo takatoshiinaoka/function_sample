@@ -9,10 +9,12 @@
     npm install -g azure-functions-core-tools@3 --unsafe-perm true
     ``` 
 
-## リポジトリをクローンする
-```
-git clone https://github.com/takatoshiinaoka/function_sample.git
-```
+## プロジェクトを作成する
+- [自分で作成する場合](./makeproject.md)
+- このリポジトリをクローンする場合
+    ```
+    git clone https://github.com/takatoshiinaoka/function_sample.git
+    ```
 
 ## 動作確認
 ```
