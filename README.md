@@ -11,7 +11,7 @@
 
 ## リポジトリをクローンする
 ```
-git clone 
+git clone https://github.com/takatoshiinaoka/function_sample.git
 ```
 
 ## 動作確認
