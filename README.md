@@ -1,4 +1,4 @@
-# Function_Test
+# Function_Sample
 ## 前提条件
 - Azure CLIの[インストール](https://learn.microsoft.com/ja-jp/cli/azure/install-azure-cli)
 - Azure Functons Core Tools のインストール（[CoreToolsのReadme](https://github.com/Azure/azure-functions-core-tools/blob/v4.x/README.md#windows)）
